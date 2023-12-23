@@ -2,6 +2,8 @@
 
 ### Какой-то студентик
 
+[![wakatime](https://wakatime.com/badge/user/018c9383-0a4a-4a89-837e-fe8e3e8104fd.svg)](https://wakatime.com/@018c9383-0a4a-4a89-837e-fe8e3e8104fd)
+
 <!--
 **Dimitricas1/Dimitricas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
