@@ -1,6 +1,6 @@
 ## Коротко о себе:
 
-### Какой-то студентик
+### Ну, допустим, мяу...
 
 [![wakatime](https://wakatime.com/badge/user/018c9383-0a4a-4a89-837e-fe8e3e8104fd.svg)](https://wakatime.com/@018c9383-0a4a-4a89-837e-fe8e3e8104fd)
 
